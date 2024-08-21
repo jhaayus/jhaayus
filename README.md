@@ -19,7 +19,7 @@ Here are some of my standout projects:
 
 - **Webapp AI Agent for Providing Latest Data**: Developed a web application with an AI agent that fetches and analyzes the most recent data to deliver insights in real-time.
 - **Blog Creating Solution Using AWS Lambda and S3**: Implemented a serverless architecture for automated blog creation, utilizing AWS Lambda for processing and S3 for storage and delivery.
-- **[Project Name 3]**: Brief description of the project and its impact.
+
 
 ## 🌱 Current Interests
 
