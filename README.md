@@ -34,6 +34,7 @@ I'm currently exploring:
 Feel free to reach out to me via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ayush-jha-461a5a73/)![image](https://github.com/user-attachments/assets/695b76a9-a82f-4aad-8b33-87e774f67739)
 ) or [email](jhaayus001@gmail.com).
 
+## Resume - - **https://drive.google.com/file/d/1keWI6lLgEDj-vfwDc-d_aprWU4yC03vZ/view?usp=sharing**
 ## 🌟 Open Source Contributions
 
 I actively contribute to open-source projects and am always looking for new opportunities to collaborate.
