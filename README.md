@@ -1,48 +1,18 @@
-# Hi there, I'm Ayush Jha 👋
-
-👀 Welcome to my GitHub profile! I'm an insights-driven analytics professional with over 5 years of experience in the Retail, eCommerce, Product, SaaS, and Consulting domains. I hold an MBA in Business Analytics from IIM Kashipur ('22) and 💞️ have a passion for leveraging AI to drive innovation.
-
-## 🔧 Technologies & Tools
-
-- **Analytics Skills**: Machine Learning - Regression, Random Forest, PCA, Clustering, Deep Learning, Neural Networks
-- **LLM**: PPBLX, BERT, Llama3, GPT-3
-- **GenAI Skills**: Prompt Engineering, Prompt Optimization
-- **Libraries**: Pandas, NLTK, Numpy, SNS, Langchain, TensorFlow, Hugging Face
-- **NLP Techniques**: Tokenization, Embeddings, Sequence-to-Sequence Models, TF-IDF
-- **Cloud & Tech Tools**: Azure Databricks, AWS Lambda, S3, Google Analytics, BigQuery
-- **Programming Languages**: SQL, Python, PySpark
-- **Project Management**: Stakeholder Management, JIRA, GitLab
-
-## 🚀 Projects
-
-Here are some of my standout projects:
-
-- **Webapp AI Agent for Providing Latest Data**: Developed a web application with an AI agent that fetches and analyzes the most recent data to deliver insights in real-time.
-- **Blog Creating Solution Using AWS Lambda and S3**: Implemented a serverless architecture for automated blog creation, utilizing AWS Lambda for processing and S3 for storage and delivery.
+# 💫 About Me:
+# Hi there, I'm Ayush Jha 👋<br><br>👀 Welcome to my GitHub profile! I'm an insights-driven analytics professional with over 5 years of experience in the Retail, eCommerce, Product, SaaS, and Consulting domains. I hold an MBA in Business Analytics from IIM Kashipur ('22) and 💞️ have a passion for leveraging AI to drive innovation.<br><br>## 🔧 Technologies & Tools<br><br>- **Analytics Skills**: Machine Learning - Regression, Random Forest, PCA, Clustering, Deep Learning, Neural Networks<br>- **LLM**: PPBLX, BERT, Llama3, GPT-3<br>- **GenAI Skills**: Prompt Engineering, Prompt Optimization<br>- **Libraries**: Pandas, NLTK, Numpy, SNS, Langchain, TensorFlow, Hugging Face<br>- **NLP Techniques**: Tokenization, Embeddings, Sequence-to-Sequence Models, TF-IDF<br>- **Cloud & Tech Tools**: Azure Databricks, AWS Lambda, S3, Google Analytics, BigQuery<br>- **Programming Languages**: SQL, Python, PySpark<br>- **Project Management**: Stakeholder Management, JIRA, GitLab<br><br>## 🚀 Projects<br><br>Here are some of my standout projects:<br><br>- **Webapp AI Agent for Providing Latest Data**: Developed a web application with an AI agent that fetches and analyzes the most recent data to deliver insights in real-time.<br>- **Blog Creating Solution Using AWS Lambda and S3**: Implemented a serverless architecture for automated blog creation, utilizing AWS Lambda for processing and S3 for storage and delivery.<br><br><br>## 🌱 Current Interests<br><br>I'm currently exploring:<br><br>- Generative AI<br>- Advanced NLP techniques<br>- Machine Learning Engineering<br><br>## 📫 Get in Touch <br><br>Feel free to reach out to me via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ayush-jha-461a5a73/)![image](https://github.com/user-attachments/assets/695b76a9-a82f-4aad-8b33-87e774f67739)<br>) or [email](jhaayus001@gmail.com).<br><br>## Resume - - **https://drive.google.com/file/d/1keWI6lLgEDj-vfwDc-d_aprWU4yC03vZ/view?usp=sharing**<br>## 🌟 Open Source Contributions<br><br>I actively contribute to open-source projects and am always looking for new opportunities to collaborate.<br><br>---<br><br>Thank you for visiting my profile! I'm excited to connect with fellow tech enthusiasts and explore opportunities in the field of AI.<br><!---<br>jhaayus/jhaayus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
 
 
-## 🌱 Current Interests
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhaayus/) 
 
-I'm currently exploring:
-
-- Generative AI
-- Advanced NLP techniques
-- Machine Learning Engineering
-
-## 📫 Get in Touch 
-
-Feel free to reach out to me via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ayush-jha-461a5a73/)![image](https://github.com/user-attachments/assets/695b76a9-a82f-4aad-8b33-87e774f67739)
-) or [email](jhaayus001@gmail.com).
-
-## Resume - - **https://drive.google.com/file/d/1keWI6lLgEDj-vfwDc-d_aprWU4yC03vZ/view?usp=sharing**
-## 🌟 Open Source Contributions
-
-I actively contribute to open-source projects and am always looking for new opportunities to collaborate.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhaayus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhaayus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaayus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jhaayus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my profile! I'm excited to connect with fellow tech enthusiasts and explore opportunities in the field of AI.
-<!---
-jhaayus/jhaayus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
